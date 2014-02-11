@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Daryl-Gan.github.io/sitemap.xml 
